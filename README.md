@@ -1,2 +1,2 @@
-# playwright-demo
+# Playwright
 Presentation for MLOps class
