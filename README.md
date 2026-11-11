@@ -1,2 +1,19 @@
-# Playwright
-Presentation for MLOps class
+# 🎭 Playwright for MLOps: Automated E2E & UI Testing
+
+This repository demonstrates how to integrate **Playwright** into an **MLOps pipeline** to test web-based ML applications (Streamlit, Gradio, React dashboards) before and after model deployment.
+
+## 🚀 Quickstart
+
+### 1. Prerequisites & Setup
+```bash
+# Clone repository
+git clone [https://github.com/your-username/mlops-playwright-demo.git](https://github.com/your-username/mlops-playwright-demo.git)
+cd mlops-playwright-demo
+
+# Create virtual environment
+python -m venv venv
+source venv/bin/activate  # On Windows: venv\Scripts\activate
+
+# Install dependencies and Playwright browsers
+pip install -r requirements.txt
+playwright install
