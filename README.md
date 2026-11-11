@@ -7,8 +7,8 @@ This repository demonstrates how to integrate **Playwright** into an **MLOps pip
 ### 1. Prerequisites & Setup
 ```bash
 # Clone repository
-git clone [https://github.com/your-username/mlops-playwright-demo.git](https://github.com/your-username/mlops-playwright-demo.git)
-cd mlops-playwright-demo
+git clone [https://github.com/mpluwu/playwright-demo.git](https://github.com/mpluwu/playwright-demo.git)
+cd playwright-demo
 
 # Create virtual environment
 python -m venv venv
