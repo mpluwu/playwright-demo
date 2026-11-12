@@ -17,3 +17,5 @@ cd playwright-demo
 pip install -r requirements.txt
 npm init playwright@latest
 env_setup
+
+Referenced by: [https://github.com/pavanoltraining/Playwright_Opencart_AI_v1]
