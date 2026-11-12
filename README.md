@@ -18,6 +18,7 @@ pip install -r requirements.txt
 npm init playwright@latest
 env_setup
 
+```
 Referenced by:
 [https://playwright.dev/docs/intro]
 [https://www.youtube.com/watch?v=dn_Z11y7Fuo]
