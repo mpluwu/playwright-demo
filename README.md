@@ -16,4 +16,4 @@ cd playwright-demo
 
 pip install -r requirements.txt
 npm init playwright@latest
-.\env_setup
+env_setup
