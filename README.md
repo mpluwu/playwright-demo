@@ -7,13 +7,12 @@ This repository demonstrates how to integrate **Playwright** into an **MLOps pip
 ### 1. Prerequisites & Setup
 ```bash
 # Clone repository
+
 git clone [https://github.com/mpluwu/playwright-demo.git](https://github.com/mpluwu/playwright-demo.git)
 cd playwright-demo
 
-# Create virtual environment
-python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
 
 # Install dependencies and Playwright browsers
+
 pip install -r requirements.txt
-playwright install
+npm init playwright@latest
