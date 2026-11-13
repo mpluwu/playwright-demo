@@ -39,6 +39,10 @@ streamlit run app.py
 
 python test-app.py
 
+#Show the trace in playwright
+
+python -m playwright show-trace trace.zip
+
 ```
 Referenced by:
 [https://playwright.dev/docs/intro]
