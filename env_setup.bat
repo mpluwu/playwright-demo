@@ -4,7 +4,7 @@ echo  Environment Setup - Playwright + opencart
 echo ==========================================
 
 echo [1/7] Installing test data, env vars, date/time handling...
-call npm install dotenv @faker-js/faker luxon  #loads settings from .env file into ur code, generates realistic fake data, handles dates
+call npm install dotenv @faker-js/faker luxon  ::loads settings from .env file into ur code, generates realistic fake data, handles dates
 if errorlevel 1 goto :error
 
 echo [2/7] Installing API / data validation...
