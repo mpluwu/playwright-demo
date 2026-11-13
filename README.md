@@ -31,6 +31,14 @@ npx playwright show-report
 
 npx playwright test --ui
 
+#The python test (using streamlit to turn the code into a web)
+
+streamlit run app.py
+
+#Run the testing script
+
+pytest test_app.py 
+
 ```
 Referenced by:
 [https://playwright.dev/docs/intro]
