@@ -37,7 +37,7 @@ streamlit run app.py
 
 #Run the testing script
 
-pytest test_app.py 
+python test-app.py
 
 ```
 Referenced by:
