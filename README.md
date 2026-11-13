@@ -16,7 +16,7 @@ cd playwright-demo
 
 pip install -r requirements.txt
 npm init playwright@latest
-env_setup (can edit)
+env_setup (additional, can edit)
 
 
 #Running the Example Test
