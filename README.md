@@ -18,6 +18,19 @@ pip install -r requirements.txt
 npm init playwright@latest
 env_setup (can edit)
 
+
+#Running the Example Test
+
+npx playwright test
+
+#HTML Test Reports
+
+npx playwright show-report
+
+#Running the Example Test in UI Mode
+
+npx playwright test --ui
+
 ```
 Referenced by:
 [https://playwright.dev/docs/intro]
