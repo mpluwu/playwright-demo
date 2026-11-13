@@ -8,7 +8,7 @@ This repository demonstrates how to integrate **Playwright** into an **MLOps pip
 ```bash
 # Clone repository
 
-git clone [https://github.com/mpluwu/playwright-demo.git](https://github.com/mpluwu/playwright-demo.git)
+git clone https://github.com/mpluwu/playwright-demo.git](https://github.com/mpluwu/playwright-demo
 cd playwright-demo
 
 
