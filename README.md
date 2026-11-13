@@ -16,7 +16,6 @@ cd playwright-demo
 
 pip install -r requirements.txt
 npm init playwright@latest
-env_setup (additional, can edit)
 
 
 #Running the Example Test
@@ -44,7 +43,3 @@ python test-app.py
 python -m playwright show-trace trace.zip
 
 ```
-Referenced by:
-[https://playwright.dev/docs/intro]
-[https://www.youtube.com/watch?v=dn_Z11y7Fuo]
-[https://github.com/pavanoltraining/Playwright_Opencart_AI_v1]
